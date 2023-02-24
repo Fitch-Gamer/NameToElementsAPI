@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc4Ki3Ey68MZM2U3y0vmObPk8X6dY2nqSY607UEVSEteXVkO8d+noy2AQky3xgfjbNt9Ge/QQh8KGmnTBWH73Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fitch\\Desktop\\Coding\\Projects\\NameToElementsAPI\\NameToElementsAPI\\NameToElementsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fitch\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\fitch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
